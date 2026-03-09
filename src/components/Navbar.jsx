@@ -4,11 +4,11 @@ let Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const navLinks = [
-  "Home",
-  "Services",
-  "Portfolio",
-  "About",
-  "Contact"
+    "Home",
+    "Services",
+    "Portfolio",
+    "About",
+    "Contact"
   ];
 
   return (
@@ -18,14 +18,14 @@ let Navbar = () => {
           {/* Logo */}
           <div className="flex items-center gap-3">
             <div className="w-9 h-9 rounded-2xl bg-[#b08968] flex items-center justify-center text-white font-semibold">
-              EZ
+              EP
             </div>
             <div>
               <h1 className="text-lg font-semibold tracking-wide text-[#3e2f2b]">
-                EZ Event Makers
+                Event Planner
               </h1>
               <p className="text-xs text-[#8c7b75] -mt-1">
-                Premium Event Planning
+                Premium Event Services
               </p>
             </div>
           </div>

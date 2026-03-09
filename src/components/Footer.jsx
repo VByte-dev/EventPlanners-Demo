@@ -9,13 +9,12 @@ let Footer = () => {
           {/* Brand Column */}
           <div>
             <h3 className="text-xl font-semibold text-white">
-              EZ Event Makers
+              Event Planner
             </h3>
 
             <p className="mt-4 text-sm text-[#d8cfc6] leading-relaxed">
-              Creating elegant, memorable, and stress-free celebrations 
-              across Chennai. We turn your vision into beautifully 
-              executed events.
+              Creating elegant, memorable, and stress-free celebrations.
+              We help turn visions into beautifully executed events.
             </p>
 
             <div className="mt-6 flex gap-4 text-sm">
@@ -62,9 +61,9 @@ let Footer = () => {
             </h4>
 
             <div className="mt-6 space-y-3 text-sm text-[#d8cfc6]">
-              <p>📍 Chennai, Tamil Nadu</p>
-              <p>📞 +91 98765 43210</p>
-              <p>✉ contact@ezeventmakers.com</p>
+              <p>📍 Your City, State</p>
+              <p>📞 +91 XXXXX XXXXX</p>
+              <p>✉ contact@yourdomain.com</p>
             </div>
 
             <p className="mt-6 text-sm text-[#b08968] font-medium">
@@ -77,7 +76,7 @@ let Footer = () => {
         <div className="mt-16 border-t border-[#4a3b36] pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-[#cbbfb6] gap-4">
 
           <p>
-            © {new Date().getFullYear()} EZ Event Makers. All rights reserved.
+            © {new Date().getFullYear()} Event Planner. All rights reserved.
           </p>
 
           <div className="flex gap-6">

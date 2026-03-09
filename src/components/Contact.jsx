@@ -115,13 +115,13 @@ let Contact = () => {
 
             <div className="mt-8 space-y-4 text-sm text-[#3e2f2b]">
               <p>
-                <strong>Phone:</strong> +91 98765 43210
+                <strong>Phone:</strong> +91 XXXXX XXXXX
               </p>
               <p>
-                <strong>Email:</strong> contact@ezeventmakers.com
+                <strong>Email:</strong> contact@yourdomain.com
               </p>
               <p>
-                <strong>Location:</strong> Chennai, Tamil Nadu
+                <strong>Location:</strong> Your City, State
               </p>
             </div>
 

@@ -30,16 +30,15 @@ let About = () => {
           </h2>
 
           <p className="mt-6 text-[#6d5c55] leading-relaxed">
-            At EZ Event Makers, we believe every event tells a story. Our
-            mission is to transform your vision into a beautifully executed
-            celebration — handled with professionalism, creativity, and
-            meticulous attention to detail.
+            We believe every event tells a story. Our goal is to transform your
+            vision into a beautifully executed celebration — handled with
+            professionalism, creativity, and careful attention to detail.
           </p>
 
           <p className="mt-4 text-[#6d5c55] leading-relaxed">
-            With years of experience in wedding planning, corporate events, and
-            private celebrations, our team ensures seamless coordination from
-            concept to completion.
+            With experience in weddings, corporate events, and private
+            celebrations, our team ensures seamless coordination from concept
+            to completion.
           </p>
 
           {/* Highlights */}
