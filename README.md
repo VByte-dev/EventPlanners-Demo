@@ -1,8 +1,17 @@
-# React + Vite
+# Event Planners Demo Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, reusable demo website template designed for event planners to showcase their work online. This template provides a clean and professional layout to display services, portfolio, and contact information.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fully responsive and works on all devices  
+- Clean, modern design that can be adapted for different needs  
+- Easy to customize with your own content, images, and branding  
+- Built to showcase your services and professional work effectively  
+- Lightweight and fast-loading for a smooth user experience  
+
+## Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/vbyte-dev/eventplanners-demo.git
