@@ -49,7 +49,7 @@ let Portfolio = () => {
         );
 
   return (
-    <section className="py-24 bg-[#f8f5f2]">
+    <section className="py-24 bg-[#f8f5f2]" id="Portfolio">
       <div className="max-w-7xl mx-auto px-6">
 
         {/* Section Heading */}

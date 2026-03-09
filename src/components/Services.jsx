@@ -47,7 +47,7 @@ let Services = () => {
   ];
 
   return (
-    <section className="py-28 bg-white">
+    <section className="py-28 bg-white" id="Services">
       <div className="max-w-7xl mx-auto px-6">
 
         {/* Section Header */}

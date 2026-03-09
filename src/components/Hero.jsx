@@ -2,7 +2,7 @@ import React from "react";
 
 let Hero = () => {
   return (
-    <section className="pt-32 pb-0 bg-[#f8f5f2] overflow-hidden">
+    <section className="pt-32 pb-0 bg-[#f8f5f2] overflow-hidden" id="Home">
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center pb-20">
         {/* LEFT CONTENT */}
         <div>

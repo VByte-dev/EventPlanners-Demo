@@ -1,6 +1,6 @@
 let Contact = () => {
   return (
-    <section className="py-28 bg-[#f8f5f2]">
+    <section className="py-28 bg-[#f8f5f2]" id="Contact">
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16">
         {/* LEFT: CONTACT FORM */}
         <div>

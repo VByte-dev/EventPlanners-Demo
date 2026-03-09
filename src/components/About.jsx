@@ -1,6 +1,6 @@
 let About = () => {
   return (
-    <section className="py-28 bg-white">
+    <section className="py-28 bg-white" id="About">
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
         {/* LEFT IMAGE */}
         <div className="relative">

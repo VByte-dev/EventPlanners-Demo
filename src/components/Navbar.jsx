@@ -3,13 +3,7 @@ import { useState } from "react";
 let Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
-  const navLinks = [
-    "Home",
-    "Services",
-    "Portfolio",
-    "About",
-    "Contact"
-  ];
+  const navLinks = ["Home", "Services", "Portfolio", "About", "Contact"];
 
   return (
     <header className="fixed top-0 left-0 w-full z-50">
@@ -29,13 +23,13 @@ let Navbar = () => {
               </p>
             </div>
           </div>
-   
+
           {/* Desktop Menu */}
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-[#4e3b34]">
             {navLinks.map((link) => (
               <a
                 key={link}
-                href="#"
+                href={`#${link}`}
                 className="relative group transition-all duration-300"
               >
                 {link}

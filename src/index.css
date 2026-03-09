@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+*{
+  scroll-behavior: smooth;
+}
+
 /* Running Banner Animation - Hero */
 @keyframes marquee {
   0% { transform: translateX(0%); }
