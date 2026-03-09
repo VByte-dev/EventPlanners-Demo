@@ -57,7 +57,7 @@ let Navbar = () => {
           <div className="md:hidden bg-[#f8f5f2] px-6 pb-6">
             <div className="flex flex-col gap-4 text-sm font-medium text-[#4e3b34]">
               {navLinks.map((link) => (
-                <a key={link} href="#" onClick={() => setIsOpen(false)}>
+                <a key={link} href={`#${link}`} onClick={() => setIsOpen(false)}>
                   {link}
                 </a>
               ))}
