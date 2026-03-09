@@ -29,7 +29,7 @@ let Navbar = () => {
               </p>
             </div>
           </div>
-
+   
           {/* Desktop Menu */}
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-[#4e3b34]">
             {navLinks.map((link) => (
